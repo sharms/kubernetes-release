@@ -2,6 +2,6 @@
 name: flannel
 dependencies:
   - git
-  - golang
+  - golang1.6
 files:
   - flannel/**/*
